@@ -3,3 +3,4 @@ Hello World2
 Hello World3
 ・git remove
 ・git status
+・git diff
